@@ -1,0 +1,14 @@
+{
+  "name": "software-release-demo",
+  "version": "1.0.0",
+  "description": "Demo project for Taming Software Releases",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Brinkman",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.19.5"
+  }
+}
